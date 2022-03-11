@@ -66,16 +66,16 @@ On this site I would like to share my all gained experience from personal studie
 
 ## Groups for knowledge gathering
 
-[Testowanie oprogramowania](https://www.facebook.com/groups/TestowanieOprogramowania)
-[Testowanie oprogramowania - PRACA, Ogłoszenia](https://www.facebook.com/groups/215557562210470/?ref=group_header)
-[Tester oprogramowania - jak nim zostać?](https://www.facebook.com/groups/531570473876610/?ref=group_header)
-[Tester oprogramowania - wsparcie na starcie](https://www.facebook.com/groups/testeroprogramowania/?ref=group_header)
+* [Testowanie oprogramowania](https://www.facebook.com/groups/TestowanieOprogramowania)
+* [Testowanie oprogramowania - PRACA, Ogłoszenia](https://www.facebook.com/groups/215557562210470/?ref=group_header)
+* [Tester oprogramowania - jak nim zostać?](https://www.facebook.com/groups/531570473876610/?ref=group_header)
+* [Tester oprogramowania - wsparcie na starcie](https://www.facebook.com/groups/testeroprogramowania/?ref=group_header)
 
 ## Blogs read
 
-[remigiuszbednarczyk.pl](https://remigiuszbednarczyk.pl)
-[laborqa.pl](https://laborqa.pl/)
-[testerzy.pl](https://testerzy.pl/)
+* [remigiuszbednarczyk.pl](https://remigiuszbednarczyk.pl)
+* [laborqa.pl](https://laborqa.pl/)
+* [testerzy.pl](https://testerzy.pl/)
 
 ## Crowdtesting platforms
 
