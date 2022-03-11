@@ -8,7 +8,7 @@ Junior Software Tester.
 My goal is to develop testing knowlage and technical skills. 
 On this site I would like to share my all gained experience from personal studies and researches in testing.  
 
-## Tools
+## Tools, a set of technologies that I work with
 
 * Jira - Work management tool for use cases, requirements and test case management and more
 * Trello - Issue tracking and project management tool for developers
@@ -20,6 +20,7 @@ On this site I would like to share my all gained experience from personal studie
 * ScreenPresso, Ditto, PikPik, ShareX, Handbrake - Record and image management
 * MySQLWorkbench - Visual database design tool that integrates SQL development, administration, database design
 * InteliJ Idea - programming environment for Java
+* Slack - messaging app for business
 
 ## Tech skills
 
