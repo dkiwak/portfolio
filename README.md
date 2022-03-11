@@ -60,7 +60,7 @@ The course included thematic blocks:
 
 ## Technical Books read
 
-* [Testowanie Oprogramowania Piotr Wichterski] (https://pwicherski.gitbook.io)
+* [Testowanie Oprogramowania Piotr Wichterski](https://pwicherski.gitbook.io)
 * Radosław Smilgin - Zawód tester, PWN
 * Rafał Pawlak - Testowanie Oprogramowania, Helion
 
@@ -89,7 +89,7 @@ Merge Dragons! is a puzzle adventure game, where players are tasked with healing
  
 ## Examples of java projects discussed while learning testing
 
-* Java
-* Java
-* Java 
+* ProjectJavaBooks
+* BankAppAccount
+* ProjectJavaScanner 
 
