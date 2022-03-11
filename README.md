@@ -38,7 +38,7 @@ On this site I would like to share my all gained experience from personal studie
  
 ## Courses 
 
-Software tester course (112h) in SDA (Software Development Academy) 
+Software tester course (112h) in SDA (Software Development Academy). 
 The course included thematic blocks:
    - goals and principles of testing,
    - test design techniques,
@@ -47,9 +47,9 @@ The course included thematic blocks:
    - testing practice classes,
    - basics of databases,
    - Agile / Scrum,
-* - introduction to Java programming,
-* - testing in the BDD methodology,
-* - Selenium WebDriver basics,
+   - introduction to Java programming,
+   - testing in the BDD methodology,
+   - Selenium WebDriver basics,
 
 ## On-line Courses
 
