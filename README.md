@@ -1,4 +1,5 @@
-# portfolio
+# Portfolio
+
 My Testers's Portfolio
 
 ## About me
@@ -33,10 +34,8 @@ On this site I would like to share my all gained experience from personal studie
 
 ## Certificates 
 
-* ISTQB - No. 73599
+* ISTQB - No. xxxxx
  
-
-
 ## Courses 
 
 * Software tester course (112h) in SDA (Software Development Academy) 
@@ -88,6 +87,7 @@ Merge Dragons! is a puzzle adventure game, where players are tasked with healing
 
  
 ## Examples of java projects discussed while learning testing
+
 * Java
 * Java
 * Java 
