@@ -87,14 +87,14 @@ The course included thematic blocks:
 Merge Dragons! is a puzzle adventure game, where players are tasked with healing a magical land, harnessing the power of dragons, solving fun puzzles, and building their camp to grow their dragons.
 
  
- ## Youtube channels for testers
+## Youtube channels for testers
 * Technika Programowania
 * Szkolatestera_pl
 * Testuj.pl
-* jaktestowac.pl
-* edureka!
+* Jaktestowac.pl
+* Edureka!
 * TechWorld With Nana
- 
+* Lambda test
  
 ## Examples of java projects discussed while learning testing
 
