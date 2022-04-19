@@ -35,7 +35,7 @@ On this site I would like to share my all gained experience from personal studie
 
 ## Certificates 
 
-* ISTQB - No. xxxxx
+* ISTQB - in progress
  
 ## Courses 
 
