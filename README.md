@@ -75,7 +75,7 @@ The course included thematic blocks:
 
 ## Blogs read
 
-* [akademiaqa.pl BArtek Kita testowe środy](https://akademiaqa.pl/testowa-sroda/)
+* [akademiaqa.pl Bartek Kita testowe środy](https://akademiaqa.pl/testowa-sroda/)
 * [testelka.pl Ela Sądel](https://testelka.pl/)
 * [testerzy.pl](https://testerzy.pl/)
 
