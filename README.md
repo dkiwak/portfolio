@@ -4,38 +4,40 @@ My Testers's Portfolio.
 
 ## About me
 
-Junior Software Tester. 
+Software Tester. 
 My goal is to develop testing knowlage and technical skills. 
 On this site I would like to share my all gained experience from personal studies and researches in testing.  
 
-## Tools, a set of technologies that I work with
+## Tools, a set of technologies that I was dealing with
 
-* Jira - Work management tool for use cases, requirements and test case management and more
+* Jira, Azure Devops - Work management tool for use cases, requirements and test case management and more
 * Trello - Issue tracking and project management tool for developers
 * Postman - Testing tool for REST API
 * TestLink - Test management system that facilitates software quality assurance
 * Test Rail - Web-based test case management tool
 * Selenium IDE - Open source record and playback test automation for the web
 * Github - Version Control Systems
+* Docker - platform that enables developers to build, deploy, run, update and manage containers
+* Swagger UI - allows team to visualize and interact with the API's resources 
+* Dozzle - application that provides with a web based interface to monitor Docker container
 * ScreenPresso, Ditto, PikPik, ShareX, Handbrake - Record and image management
-* MySQLWorkbench - Visual database design tool that integrates SQL development, administration, database design
 * InteliJ Idea - programming environment for Java
 * Slack - messaging app for business
 
 ## Tech skills
 
-* Databases: SQL
+* Databases: basics SQL
 * Languages: basics Java
 * DevTools
 * SCRUM
 * Software testing
 * Creating test cases
 * Reporting bugs
-* ISTQB: Foundation Level
+* ISTQB: foundation Level
 
 ## Certificates 
 
-* ISTQB - in progress
+* ISTQB - in the future 
  
 ## Courses 
 
@@ -50,7 +52,7 @@ The course included thematic blocks:
    - Agile / Scrum,
    - introduction to Java programming,
    - testing in the BDD methodology,
-   - Selenium WebDriver basics,
+   - Selenium WebDriver basics and Postman,
 
 ## On-line Courses
 
@@ -60,7 +62,6 @@ The course included thematic blocks:
 
 ## Technical Books read
 
-* [Testowanie Oprogramowania Piotr Wichterski](https://pwicherski.gitbook.io)
 * Radosław Smilgin - Zawód tester, PWN
 * Rafał Pawlak - Testowanie Oprogramowania, Helion
 
@@ -74,27 +75,18 @@ The course included thematic blocks:
 
 ## Blogs read
 
-* [remigiuszbednarczyk.pl](https://remigiuszbednarczyk.pl)
-* [laborqa.pl](https://laborqa.pl/)
+* [akademiaqa.pl BArtek Kita testowe środy](https://akademiaqa.pl/testowa-sroda/)
+* [testelka.pl Ela Sądel](https://testelka.pl/)
 * [testerzy.pl](https://testerzy.pl/)
 
 ## Crowdtesting platforms
 
-[UTest.com](www.utest.com), I was involved in the following projects: 
+[UTest.com](www.utest.com) - I was involved in few projects 
 
-* HBO EU - HBO MAX - IAP Launch - Payment Cycle (WebOS and App Store validations)
-* Merge Dragons! Live Ops - Android 'lost devices' - Crash bug hunt Test Cycle (Android validations). 
-Merge Dragons! is a puzzle adventure game, where players are tasked with healing a magical land, harnessing the power of dragons, solving fun puzzles, and building their camp to grow their dragons.
 
  
 ## Youtube channels for testers
 * Technika Programowania
-* Szkolatestera_pl
-* Testuj.pl
-* Jaktestowac.pl
-* Edureka!
-* TechWorld With Nana
-* Lambda test
  
 ## Examples of java projects discussed while learning testing
 
