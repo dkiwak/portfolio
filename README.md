@@ -10,17 +10,17 @@ On this site I would like to share my all gained experience from personal studie
 
 ## Tools, a set of technologies that I was dealing with
 
-* Jira, Azure Devops - Work management tool for use cases, requirements and test case management and more
-* Trello - Issue tracking and project management tool for developers
-* Postman - Testing tool for REST API
-* TestLink - Test management system that facilitates software quality assurance
-* Test Rail - Web-based test case management tool
-* Selenium IDE - Open source record and playback test automation for the web
+* Jira, Azure Devops - work management tool for use cases, requirements and test case management and more
+* Trello - issue tracking and project management tool for developers
+* Postman - testing tool for REST API
+* TestLink - test management system that facilitates software quality assurance
+* Test Rail - web-based test case management tool
+* Selenium IDE - open source record and playback test automation for the web
 * Github - Version Control Systems
 * Docker - platform that enables developers to build, deploy, run, update and manage containers
 * Swagger UI - allows team to visualize and interact with the API's resources 
 * Dozzle - application that provides with a web based interface to monitor Docker container
-* ScreenPresso, Ditto, PikPik, ShareX, Handbrake - Record and image management
+* ScreenPresso, Ditto, PikPik, ShareX, Handbrake - record and image management
 * InteliJ Idea - programming environment for Java
 * Slack - messaging app for business
 
