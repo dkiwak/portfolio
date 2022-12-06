@@ -81,7 +81,7 @@ The course included thematic blocks:
 * [Testowanie oprogramowania - PRACA, Ogłoszenia](https://www.facebook.com/groups/215557562210470/?ref=group_header)
 * [Tester oprogramowania - jak nim zostać?](https://www.facebook.com/groups/531570473876610/?ref=group_header)
 * [Tester oprogramowania - wsparcie na starcie](https://www.facebook.com/groups/testeroprogramowania/?ref=group_header)
-* 
+
 
 ## **Blogs Read**
 * [akademiaqa.pl Bartek Kita testowe środy](https://akademiaqa.pl/testowa-sroda/)
