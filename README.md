@@ -4,9 +4,7 @@ My Testers's Portfolio.
 
 ## About me
 
-Software Tester. 
-My goal is to develop testing knowlage and technical skills. 
-On this site I would like to share my all gained experience from personal studies and researches in testing.  
+I am passionate about software testing and quality assurance. Looking for opportunities in the QA area. My ambition is committing to adding value and achieving goals with the best possible results. I enjoy learning, meeting new people and being part of a highly motivated and results-oriented team. I have also experience as an analyst in the insurance industry, where I was responsible for creating and searching for solutions. In the coming time, I intend to expand my qualifications with automated tests. 
 
 ## Tools, a set of technologies that I was dealing with
 
