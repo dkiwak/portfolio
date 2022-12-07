@@ -16,7 +16,7 @@ I have also experience as an analyst in the insurance industry, where I was resp
 - oriented for further development in automation
 - deepening my knowledge and skills in accessibility & usability & API testing
 - mastering HTML & CSS
-- [learning JavaScript](www.youcode.pl)
+- [learning JavaScript](https://youcode.pl/)
 
 
 ## **Tech Stack**
