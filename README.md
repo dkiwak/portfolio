@@ -94,7 +94,7 @@ The course included thematic blocks:
 * [jaktestowac.pl](https://jaktestowac.pl/blog)
 
 ## **Crowdtesting Platforms**
-[UTest.com](www.utest.com) - I was involved in few projects (gaming, shopping, streaming, banking etc.)
+[UTest.com](https://www.utest.com/) - I was involved in few projects (gaming, shopping, streaming, banking etc.)
 + identifying and reporting different kinds of issues found on websites and mobile apps: exploratory testing with or without test cases (functional & localization testing, regression tests and retests)
 + reproducing issues reported by other testers
 + executing test cases
