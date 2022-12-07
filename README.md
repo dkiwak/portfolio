@@ -25,7 +25,7 @@ I have also experience as an analyst in the insurance industry, where I was resp
   + HTML/CSS *(basics)* - examples of simple projects using HTML and CSS: [Project MY CV](https://leafy-lily-9bbae3.netlify.app)
 
 + Tools:
-  + [Jira](https://www.atlassian.com/pl/software/jira), Azure Devops - work management tool for use cases, requirements and test case management and more
+  + [Jira](https://www.atlassian.com/pl/software/jira), [Azure Devops](https://azure.microsoft.com/pl-pl/products/devops/#overview) - work management tool for use cases, requirements and test case management and more
   + [Trello](https://trello.com/pl) - issue tracking and project management tool for developers
   + [Postman](https://www.postman.com) - testing tool for REST API
   + [TestLink](https://testlink.org) - test management system that facilitates software quality assurance
