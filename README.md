@@ -49,16 +49,17 @@ I have also experience as an analyst in the insurance industry, where I was resp
 ## **Courses** 
 Software tester course (112h) in SDA [(Software Development Academy)](https://sdacademy.pl/kursy/software-tester). 
 The course included thematic blocks:
-   - goals and principles of testing,
-   - test design techniques,
-   - risk-based testing,
-   - test tools,
-   - testing practice classes,
-   - basics of databases,
-   - Agile / Scrum,
-   - introduction to Java programming,
-   - testing in the BDD methodology,
-   - Selenium WebDriver basics and Postman,
+   - goals and principles of testing
+   - test design techniques
+   - risk-based testing
+   - test tools
+   - testing practice classes
+   - basics of databases
+   - Agile / Scrum
+   - introduction to Java programming
+   - testing in the BDD methodology
+   - Selenium WebDriver basics and Postman
+   - -- [Final project](https://drive.google.com/file/d/1vBbY3JCWEhmiu0UZqkC8C_w86Xzxexkg/view?usp=share_link)
 
 ## **On-line Courses**
 * [UDEMY: Practical software testing course 9 h](https://www.udemy.com/course/praktyczny-kurs-testowania-oprogramowania)
@@ -106,25 +107,6 @@ The course included thematic blocks:
 + [Adam Gola](https://www.youtube.com/AdamGola)
 + [Samuraj Programowania](https://www.youtube.com/c/SamurajProgramowania)
  
-## **My Test Case Examples**
-+ [TC#1]()(PL)
-+ [TC#2]()(ENG)
-+ [TC#3]()(test cases based on the equivalence partitioning technique)
-+ [TC#4]()(test cases based on the boundary value analysis technique)
-
-## **My Test Suite Examples**
-+ [TS#1]()(PL)
-+ [TS#2]()(ENG)
-
-## **My Bug Report Examples**
-+ [Bug#1]()(ENG)
-+ [Bug#2]()(ENG)
-+ [Bug#3]()(PL)
-+ [Bug#4]()(PL)
-
-## **My Test Report Examples**
-+ [TR#1]()
-
 ## **Examples of java projects discussed while learning testing**
 * ProjectJavaBooks
 * BankAppAccount
