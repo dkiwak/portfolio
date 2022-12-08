@@ -65,7 +65,6 @@ The course included thematic blocks:
 * [UDEMY: Practical software testing course 9 h](https://www.udemy.com/course/praktyczny-kurs-testowania-oprogramowania)
 * [UDEMY: Postman from scratch - REST API testing 5,5 h](https://www.udemy.com/course/postman-od-podstaw-testowanie-rest-api)
 * [UDEMY: SQL - query language for the SQL Server database](https://www.udemy.com/course/kurs-sql/) 
-* [DevTools](https://szkoleniedlaqa.pl/konsola)
 
 
 ## **Technical Books Read**
@@ -108,8 +107,8 @@ The course included thematic blocks:
 + [Samuraj Programowania](https://www.youtube.com/c/SamurajProgramowania)
  
 ## **My Test Case Examples**
-[TC#1](https://docs.google.com/spreadsheets/d/1j9T0UiJ71pC_ZTdjvm--8kGJV3Y2Cm2t/edit?usp=sharing&ouid=117187839743403639127&rtpof=true&sd=true)(test cases - the equivalence partitioning methode)
-[TC#2](https://docs.google.com/spreadsheets/d/1358vo3KiEBPqZWONpdvDjplJMaGFjXSZ/edit?usp=sharing&ouid=117187839743403639127&rtpof=true&sd=true)(test cases - the boundary value analysis methode)
+* [TC#1](https://docs.google.com/spreadsheets/d/1j9T0UiJ71pC_ZTdjvm--8kGJV3Y2Cm2t/edit?usp=sharing&ouid=117187839743403639127&rtpof=true&sd=true)(test cases - the equivalence partitioning methode)
+* [TC#2](https://docs.google.com/spreadsheets/d/1358vo3KiEBPqZWONpdvDjplJMaGFjXSZ/edit?usp=sharing&ouid=117187839743403639127&rtpof=true&sd=true)(test cases - the boundary value analysis methode)
  
 ## **Examples of java projects discussed while learning testing**
 * ProjectJavaBooks
