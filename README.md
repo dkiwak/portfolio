@@ -8,7 +8,7 @@ I am passionate about software testing and quality assurance. I believe that my 
 
 I enjoy learning new technologies, meeting new people, and being part of a highly motivated and results-oriented team. I believe that the world is in the middle of a technological revolution and I want to be a part of it. My ambition is committing to adding value and achieving goals with the best possible results.
 
-I have also experience as an analyst in the insurance industry, where I was responsible for creating and searching for solutions. In addition, I have a technical background - I graduated from the Faculty of Cybernetics with a master's degree at the Military University of Technology in Warsaw - which is very helpful in that field.
+I have also experience as an analyst in the insurance industry, where I was responsible for creating and searching for solutions. In addition, I have a technical background - I graduated from the Faculty of Cybernetics with a master's degree at the [Military University of Technology in Warsaw](https://www.wojsko-polskie.pl/wat/akademia/) - which is very helpful in that field.
 
 
 **My career goals:**
@@ -106,6 +106,10 @@ The course included thematic blocks:
 + [TestITka](https://www.youtube.com/c/TestITka)
 + [Adam Gola](https://www.youtube.com/AdamGola)
 + [Samuraj Programowania](https://www.youtube.com/c/SamurajProgramowania)
+ 
+## **My Test Case Examples**
+[TC#1](https://docs.google.com/spreadsheets/d/1j9T0UiJ71pC_ZTdjvm--8kGJV3Y2Cm2t/edit?usp=sharing&ouid=117187839743403639127&rtpof=true&sd=true)(test cases - the equivalence partitioning methode)
+[TC#2](https://docs.google.com/spreadsheets/d/1358vo3KiEBPqZWONpdvDjplJMaGFjXSZ/edit?usp=sharing&ouid=117187839743403639127&rtpof=true&sd=true)(test cases - the boundary value analysis methode)
  
 ## **Examples of java projects discussed while learning testing**
 * ProjectJavaBooks
