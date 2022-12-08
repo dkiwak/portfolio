@@ -47,7 +47,7 @@ I have also experience as an analyst in the insurance industry, where I was resp
   + ISTQB understanding
  
 ## **Courses** 
-Software tester course (112h) in SDA [(Software Development Academy)](https://sdacademy.pl/kursy/software-tester). 
+Software tester course (112h) in SDA [(Software Development Academy)](https://sdacademy.pl/). 
 The course included thematic blocks:
    - goals and principles of testing
    - test design techniques
