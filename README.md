@@ -1,6 +1,6 @@
 # Portfolio
 
-**My Testers's Portfolio.**
+**My Portfolio.**
 
 ## **About Me**
 
@@ -59,7 +59,7 @@ The course included thematic blocks:
    - introduction to Java programming
    - testing in the BDD methodology
    - Selenium WebDriver basics and Postman
-   - -- [Final project](https://drive.google.com/file/d/1vBbY3JCWEhmiu0UZqkC8C_w86Xzxexkg/view?usp=share_link)
+   - -- [Part of Final project](https://drive.google.com/file/d/1vBbY3JCWEhmiu0UZqkC8C_w86Xzxexkg/view?usp=share_link)
 
 ## **On-line Courses**
 * [UDEMY: Practical software testing course 9 h](https://www.udemy.com/course/praktyczny-kurs-testowania-oprogramowania)
