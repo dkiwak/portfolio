@@ -20,7 +20,7 @@ I have also experience as an analyst in the insurance industry, where I was resp
 ## **Tech Stack**
 + Languages:
   + SQL *(basics)*
-  + HTML/CSS *(basics)* - examples of simple projects using HTML and CSS: [Project MY CV](https://leafy-lily-9bbae3.netlify.app)
+  + HTML/CSS *(basics)* - examples of simple projects using HTML and CSS: [Project MY CV](https://sprightly-salmiakki-59fc85.netlify.app/)
 
 + Tools:
   + [Jira](https://www.atlassian.com/pl/software/jira), [Azure Devops](https://azure.microsoft.com/pl-pl/products/devops/#overview) - work management tool for use cases, requirements and test case management and more
